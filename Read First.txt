@@ -1,0 +1,4 @@
+Project is developed by qt creator ide.
+after running the project you need to enter username and password.
+username : shakil
+password : 1473
